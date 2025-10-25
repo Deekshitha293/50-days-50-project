@@ -1,4 +1,4 @@
-# 🌟 Day 2 — Data Exploration and Visualization
+# 🌟 Day 1 — Data Exploration and Visualization
 
 ### 📅 Part of: AI 50-Day Challenge  
 ### 👩‍💻 Author: Deekshitha Bhairav  
